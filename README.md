@@ -36,3 +36,7 @@ Hi! Im' a software developer, currently living in Brazil, Goiania.
   </a>
 </div>
   
+  ###
+  
+  ![Snake animation](https://github.com/Rafaelsantossgaldino/Rafaelsantossgaldino/blob/output/github-contribution-grid-snake.svg)
+  
